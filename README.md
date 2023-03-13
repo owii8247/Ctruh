@@ -12,6 +12,13 @@
 - Responsiveness for all screen sizes
 
 
+## Glimpse 
+![canvas_full](https://user-images.githubusercontent.com/100846987/224710203-49a71181-24c5-4a22-9ec7-d924c92ab7f3.PNG)
+![canvas_tab](https://user-images.githubusercontent.com/100846987/224710252-c06bb54c-e933-49a3-8f8a-0c91afe28605.PNG)
+![canvas_responsive](https://user-images.githubusercontent.com/100846987/224710274-4b38136d-46a7-4b31-a40c-f3704b6a5588.PNG)
+
+
+
 ## Run Locally
 Clone the Project
 ```
@@ -26,6 +33,9 @@ Run App
 ```
 npm run start
 ```
+
+
+
 
 ## Let's Connect
 
